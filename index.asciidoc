@@ -1,0 +1,16 @@
+The idea of the book is to:
+
+1. show a problem
+1. How you would solve with procedural code (probably pseudo code)
+1. How you solve it with SQL
+
+
+# Outline
+
+1. Get all the data
+1. Get a few columns of the data
+1. Get the first 5 rows of the data
+1. Sort the data by a column (or multiple columns)
+1. Get a Specific Row of Data where a column value matches a certain value
+...
+1. Get a Full Row where a column value is the Maximum for that Column (MaxColumnEqual)
